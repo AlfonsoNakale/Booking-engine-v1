@@ -147,7 +147,7 @@
 96C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\node_modules\pkg-dir\package.json133752694292713138 0
 138C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\node_modules\regenerate-unicode-properties\Property_of_Strings\RGI_Emoji.js133752694346495939 0
 132C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\node_modules\csso\node_modules\css-tree\cjs\parser\parse-selector.cjs133752693725731988 0
-75C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\package.json133752711813677227 0
+75C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\package.json133752714341513834 0
 137C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\node_modules\webpack\schemas\plugins\container\ModuleFederationPlugin.json133752694991026813 0
 112C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\node_modules\utility-types\dist\mapped-types.d.ts133752694723932709 0
 80C:\Users\alfon\Desktop\Work\2024\Cursor apps\booking-engine-v1\node_modules\svgo133752694565580772 1
