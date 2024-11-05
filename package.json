@@ -2,12 +2,12 @@
   "name": "tourism-booking-engine",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/app.js",
+  "main": "js/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -rf dist .parcel-cache",
     "start": "parcel serve js/app.js --dist-dir dist --port 3009",
-    "build": "parcel build js/app.js --dist-dir dist"
+    "build": "parcel build dist/app.js --dist-dir dist"
   },
   "author": "",
   "license": "ISC",
