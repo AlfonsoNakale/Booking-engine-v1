@@ -1,0 +1,24 @@
+{
+  "name": "tourism-booking-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf dist .parcel-cache",
+    "start": "parcel serve js/app.js --dist-dir dist --port 3009",
+    "build": "parcel build js/app.js --dist-dir dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flatpickr": "^4.6.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-loader": "^9.2.1",
+    "parcel": "^2.12.0",
+    "parcel-reporter-static-files-copy": "^1.5.3"
+  }
+}
